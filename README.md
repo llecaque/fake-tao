@@ -2,4 +2,4 @@ fake-tao
 ========
 
 
-fake extension tao
+This is a fake extension tao
