@@ -1,0 +1,40 @@
+{
+	"name": "llecaque/fake-tao",
+	"authors": [{
+		"name": "Lionel Lecaque",
+		"role": "Developer"
+	}],
+	"description": "TAO Fake extension ",
+	"support": {
+		"forum": "http://forum.taotesting.com",
+		"issues": "http://forge.taotesting.com"
+	},
+	"homepage": "http://www.taotesting.com",
+	"license": "GPL-2.0",
+	"keywords": [
+		"tao",
+		"oat",
+		"computer-based-assessment"
+	],
+	"type": "tao-extension",
+	"extra": {
+		"tao-extension-name": "fake-tao"
+	},
+	"require": {
+		"php": ">=5.4"
+
+	},
+	"repositories": [
+
+		{
+			"type": "vcs",
+			"url": "https://github.com/oat-sa/extension-builder.git"
+		}
+	],
+	"require-dev": {
+		"oat-sa/extension-builder": "dev-master"
+
+	},
+	"minimum-stability": "dev"
+
+}
