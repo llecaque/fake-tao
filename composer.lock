@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/oat-sa/extension-builder.git",
-                "reference": "96074375a214784b343ad02ff8a00ae0348f9b23"
+                "reference": "a8ca37105d58e827fbe55c01c0a3033114f071aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oat-sa/extension-builder/zipball/96074375a214784b343ad02ff8a00ae0348f9b23",
-                "reference": "96074375a214784b343ad02ff8a00ae0348f9b23",
+                "url": "https://api.github.com/repos/oat-sa/extension-builder/zipball/a8ca37105d58e827fbe55c01c0a3033114f071aa",
+                "reference": "a8ca37105d58e827fbe55c01c0a3033114f071aa",
                 "shasum": ""
             },
             "require": {
@@ -41,7 +41,7 @@
                 "source": "https://github.com/oat-sa/extension-builder/tree/master",
                 "issues": "https://github.com/oat-sa/extension-builder/issues"
             },
-            "time": "2016-05-12 14:12:26"
+            "time": "2016-05-12 14:20:15"
         },
         {
             "name": "pear/console_getopt",
