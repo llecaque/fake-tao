@@ -20,8 +20,8 @@
 	"extra": {
 		"tao-extension-name": "fake-tao"
 	},
-	"require": {
-		"php": ">=5.4"
+	"require-dev": {
+	
 
 	},
 	"repositories": [
@@ -32,6 +32,7 @@
 		}
 	],
 	"require": {
+		"php": ">=5.4",
 		"oat-sa/extension-builder": "dev-master"
 
 	},

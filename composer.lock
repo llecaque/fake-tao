@@ -4,10 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "740aa84a3cceba7c78a0b62ed12e817e",
-    "content-hash": "bf06adb7b7fa3587f2e4f24a2e03b086",
-    "packages": [],
-    "packages-dev": [
+    "hash": "a53a3a12355ea15f999083fe3ee6c71c",
+    "content-hash": "983966b53e77eb3cc468e7f1bd50c368",
+    "packages": [
         {
             "name": "oat-sa/extension-builder",
             "version": "dev-master",
@@ -326,6 +325,7 @@
             "time": "2016-05-03 20:54:39"
         }
     ],
+    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
