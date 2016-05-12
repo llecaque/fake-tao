@@ -26,14 +26,9 @@
 	},
 	"repositories": [
 
-		{
-			"type": "vcs",
-			"url": "https://github.com/oat-sa/extension-builder.git"
-		}
 	],
 	"require": {
-		"php": ">=5.4",
-		"oat-sa/extension-builder": "dev-master"
+		"php": ">=5.4"
 
 	},
 	"minimum-stability": "dev"
