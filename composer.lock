@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/oat-sa/extension-builder.git",
-                "reference": "a357491aa998385bf560eae32fdf0a39938426db"
+                "reference": "8db65b5890da4181a716bb8209a9300e4cc471cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oat-sa/extension-builder/zipball/a357491aa998385bf560eae32fdf0a39938426db",
-                "reference": "a357491aa998385bf560eae32fdf0a39938426db",
+                "url": "https://api.github.com/repos/oat-sa/extension-builder/zipball/8db65b5890da4181a716bb8209a9300e4cc471cf",
+                "reference": "8db65b5890da4181a716bb8209a9300e4cc471cf",
                 "shasum": ""
             },
             "require": {
@@ -43,7 +43,7 @@
                 "source": "https://github.com/oat-sa/extension-builder/tree/master",
                 "issues": "https://github.com/oat-sa/extension-builder/issues"
             },
-            "time": "2016-06-03 15:55:40"
+            "time": "2016-06-03 15:57:54"
         },
         {
             "name": "pear/archive_tar",
