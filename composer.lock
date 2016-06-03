@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/oat-sa/extension-builder.git",
-                "reference": "719328e8683ecff73c1ed94e4271ecb8770a03e4"
+                "reference": "4766cbc48741fdb2041ef6e068d3fdeda981359a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oat-sa/extension-builder/zipball/719328e8683ecff73c1ed94e4271ecb8770a03e4",
-                "reference": "719328e8683ecff73c1ed94e4271ecb8770a03e4",
+                "url": "https://api.github.com/repos/oat-sa/extension-builder/zipball/4766cbc48741fdb2041ef6e068d3fdeda981359a",
+                "reference": "4766cbc48741fdb2041ef6e068d3fdeda981359a",
                 "shasum": ""
             },
             "require": {
@@ -43,7 +43,7 @@
                 "source": "https://github.com/oat-sa/extension-builder/tree/master",
                 "issues": "https://github.com/oat-sa/extension-builder/issues"
             },
-            "time": "2016-06-01 22:10:10"
+            "time": "2016-06-03 10:46:44"
         },
         {
             "name": "pear/archive_tar",
@@ -427,12 +427,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phingofficial/phing.git",
-                "reference": "8b4f159de689a5c489779bd047111376d3360efd"
+                "reference": "e3bf50d2b5d85c2d6c061b5d677089bbe5b41cfc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phingofficial/phing/zipball/8b4f159de689a5c489779bd047111376d3360efd",
-                "reference": "8b4f159de689a5c489779bd047111376d3360efd",
+                "url": "https://api.github.com/repos/phingofficial/phing/zipball/e3bf50d2b5d85c2d6c061b5d677089bbe5b41cfc",
+                "reference": "e3bf50d2b5d85c2d6c061b5d677089bbe5b41cfc",
                 "shasum": ""
             },
             "require": {
@@ -512,7 +512,7 @@
                 "task",
                 "tool"
             ],
-            "time": "2016-05-31 07:13:14"
+            "time": "2016-06-02 19:01:58"
         }
     ],
     "packages-dev": [],
