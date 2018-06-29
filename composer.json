@@ -18,8 +18,10 @@
 	],
 	"type": "tao-extension",
 	"extra": {
+		"installer-types": ["library"],
 		"installer-paths": {
-            		"app": ["type:tao-extension"]
+            		"app": ["type:tao-extension"],
+			"app/vendor" : ["library"]
         	}
 	},
 	"require-dev": {
