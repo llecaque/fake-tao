@@ -18,22 +18,18 @@
 	],
 	"type": "tao-extension",
 	"extra": {
-		"tao-extension-name": "fake-tao"
+		"installer-paths": {
+            		"app": ["type:tao-extension"]
+        	}
 	},
 	"require-dev": {
-	
 
 	},
 	"repositories": [
-
-		{
-			"type": "vcs",
-			"url": "https://github.com/oat-sa/extension-builder.git"
-		}
 	],
 	"require": {
 		"php": ">=5.4",
-		"oat-sa/extension-builder": "dev-master"
+		 "composer/installers": "~1.0"
 
 	},
 	"minimum-stability": "dev"
