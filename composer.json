@@ -17,7 +17,7 @@
 		"computer-based-assessment"
 	],
 	"extra": {
-		"installer-types": ["library"],
+		"installer-types": ["library","tao-extension"],
 		"installer-paths": {
             		"app": ["type:tao-extension"],
 			"app/vendor" : ["library"]
