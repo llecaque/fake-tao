@@ -16,7 +16,6 @@
 		"oat",
 		"computer-based-assessment"
 	],
-	"type": "tao-extension",
 	"extra": {
 		"installer-types": ["library"],
 		"installer-paths": {
